@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EmployeeList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Employees>
+    <Employee>
+      <Name>Ali chotu</Name>
+      <Salery>40000</Salery>
+    </Employee>
+    <Employee>
+      <Name>Thulasi</Name>
+      <Salery>50000</Salery>
+    </Employee>
+  </Employees>
+</EmployeeList>

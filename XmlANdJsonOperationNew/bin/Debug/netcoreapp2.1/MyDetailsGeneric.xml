@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AllDataOfStudent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Data>
+    <Student>
+      <Name>Mahammad ali</Name>
+      <Age>21</Age>
+    </Student>
+    <Student>
+      <Name>Dillip</Name>
+      <Age>22</Age>
+    </Student>
+  </Data>
+</AllDataOfStudent>

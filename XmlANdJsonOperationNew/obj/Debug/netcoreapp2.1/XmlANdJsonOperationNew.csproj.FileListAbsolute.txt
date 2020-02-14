@@ -1,0 +1,11 @@
+C:\Users\ali\source\repos\XmlANdJsonOperationNew\XmlANdJsonOperationNew\obj\Debug\netcoreapp2.1\XmlANdJsonOperationNew.csprojAssemblyReference.cache
+C:\Users\ali\source\repos\XmlANdJsonOperationNew\XmlANdJsonOperationNew\obj\Debug\netcoreapp2.1\XmlANdJsonOperationNew.csproj.CoreCompileInputs.cache
+C:\Users\ali\source\repos\XmlANdJsonOperationNew\XmlANdJsonOperationNew\obj\Debug\netcoreapp2.1\XmlANdJsonOperationNew.AssemblyInfoInputs.cache
+C:\Users\ali\source\repos\XmlANdJsonOperationNew\XmlANdJsonOperationNew\obj\Debug\netcoreapp2.1\XmlANdJsonOperationNew.AssemblyInfo.cs
+C:\Users\ali\source\repos\XmlANdJsonOperationNew\XmlANdJsonOperationNew\bin\Debug\netcoreapp2.1\XmlANdJsonOperationNew.deps.json
+C:\Users\ali\source\repos\XmlANdJsonOperationNew\XmlANdJsonOperationNew\bin\Debug\netcoreapp2.1\XmlANdJsonOperationNew.runtimeconfig.json
+C:\Users\ali\source\repos\XmlANdJsonOperationNew\XmlANdJsonOperationNew\bin\Debug\netcoreapp2.1\XmlANdJsonOperationNew.runtimeconfig.dev.json
+C:\Users\ali\source\repos\XmlANdJsonOperationNew\XmlANdJsonOperationNew\bin\Debug\netcoreapp2.1\XmlANdJsonOperationNew.dll
+C:\Users\ali\source\repos\XmlANdJsonOperationNew\XmlANdJsonOperationNew\bin\Debug\netcoreapp2.1\XmlANdJsonOperationNew.pdb
+C:\Users\ali\source\repos\XmlANdJsonOperationNew\XmlANdJsonOperationNew\obj\Debug\netcoreapp2.1\XmlANdJsonOperationNew.dll
+C:\Users\ali\source\repos\XmlANdJsonOperationNew\XmlANdJsonOperationNew\obj\Debug\netcoreapp2.1\XmlANdJsonOperationNew.pdb
